@@ -1,3 +1,6 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
 import sys
 
 # Declare second integer, double, and String variables.
